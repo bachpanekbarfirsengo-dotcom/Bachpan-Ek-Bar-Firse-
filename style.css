@@ -27,7 +27,7 @@ html{scroll-behavior:smooth;}
 body{font-family:'Poppins',sans-serif;color:var(--text);background:var(--white);overflow-x:hidden;line-height:1.6;}
 a{text-decoration:none;color:inherit;}
 img{max-width:100%;display:block;}
-css#donateButton{position: fixed; top: 20px;right 20px}
+#donateButton{position: fixed; top: 20px;right 20px}
 .container{max-width:1160px;margin:0 auto;padding:0 24px;}
 .section{padding:96px 0;}
 .section-dark{background:var(--dark);}
